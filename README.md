@@ -1,2 +1,4 @@
 # PearlThoughts
 PearlThoughts Assssment
+
+This is a simple Chat PDF App. User should be able to upload any PDF, then ask question and get answer from the bot.
